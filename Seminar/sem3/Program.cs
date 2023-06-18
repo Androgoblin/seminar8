@@ -92,6 +92,7 @@
 //  int x = Convert.ToInt32(Console.ReadLine());
 // Diapozone(x);
 
+
 //  void Quad( int x )
 // {  
 //    int count = 1; 
