@@ -1,0 +1,15 @@
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\honworks4.csproj.AssemblyReference.cache
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\honworks4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\honworks4.AssemblyInfoInputs.cache
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\honworks4.AssemblyInfo.cs
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\honworks4.csproj.CoreCompileInputs.cache
+C:\Users\URAN\Desktop\seminar #\honworks4\bin\Debug\net6.0\honworks4.exe
+C:\Users\URAN\Desktop\seminar #\honworks4\bin\Debug\net6.0\honworks4.deps.json
+C:\Users\URAN\Desktop\seminar #\honworks4\bin\Debug\net6.0\honworks4.runtimeconfig.json
+C:\Users\URAN\Desktop\seminar #\honworks4\bin\Debug\net6.0\honworks4.dll
+C:\Users\URAN\Desktop\seminar #\honworks4\bin\Debug\net6.0\honworks4.pdb
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\honworks4.dll
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\refint\honworks4.dll
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\honworks4.pdb
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\honworks4.genruntimeconfig.cache
+C:\Users\URAN\Desktop\seminar #\honworks4\obj\Debug\net6.0\ref\honworks4.dll
